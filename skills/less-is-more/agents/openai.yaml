@@ -1,0 +1,4 @@
+interface:
+  display_name: "Less Is More"
+  short_description: "Keep calls to action clear as features grow"
+  default_prompt: "Use $less-is-more to add this feature while keeping the main action clear and secondary features easy to find."
